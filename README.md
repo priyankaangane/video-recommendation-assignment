@@ -102,38 +102,5 @@ Header:
 
 **Note:** Submission requirements must be completely met do avoid disqualification.
 
-## Evaluation Criteria
+ 
 
-Submissions will be evaluated based on:
-
-1. **Code Quality**
-   - Organization and structure
-   - Readability
-   - Efficiency and performance
-   - Best practices implementation
-
-2. **Functionality**
-   - Successful video search implementation
-   - Proper upload mechanism
-   - Error handling
-   - Feature completeness
-
-3. **Documentation**
-   - Clear setup instructions
-   - Detailed usage guidelines
-   - Code comments and documentation
-   - README.md completeness
-
-4. **Presentation**
-   - Video explanation
-   - Clear communication
-   - Technical understanding
-   - Time management
-
-## Results
-
-- Shortlisted candidates will be notified within 24 hours of project evaluation.
-
-For any questions about the submission process, please reach out to me on [Telegram](https://t.me/+VljbLT8o75QxN2I9).
-
-Good luck with your submission!
